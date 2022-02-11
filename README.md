@@ -1,24 +1,31 @@
+[github-shield]: https://img.shields.io/github/stars/ReadableLabs/Readable?style=social
+[github-url]: https://github.com/ReadableLabs/Readable
+[discord-shield]: https://img.shields.io/discord/890351923960627240?label=Discord
+[discord-url]: https://discord.com/invite/UkMNCJu2x3
+[twitter-shield]: https://img.shields.io/twitter/follow/ReadableLabs?style=social
+[twitter-url]: https://twitter.com/ReadableLabs
+
+[![Github][github-shield]][github-url]
+[![Discord][discord-shield]][discord-url]
+[![Twitter][twitter-shield]][twitter-url]
+
 # Save Time Writing Comments with AI
 
 Readable is a VSCode extension which generates comments using **GPT-3**. It's fast, reliable, consistent, and saves you loads of time.
 
 ![Readable Demo](https://github.com/ReadableLabs/readable/blob/main/output.gif?raw=true)
 
-## AI Generated Comments and Docstrings
-
-Readable generates both docstring and inline comments.
-
 ## Works in 9 Languages
 
-- Typescript
-- Javascript
-- JSX/TSX
-- Python
-- C
-- C#
-- C++
-- Java
-- PHP
+- **Typescript**
+- **Javascript**
+- **JSX/TSX**
+- **Python**
+- **C**
+- **C#**
+- **C++**
+- **Java**
+- **PHP**
 
 ## Docstring Comments
 
@@ -26,7 +33,7 @@ To generate a docstring press **ctrl '** (**cmd '** on Mac) while your cursor is
 
 ## Inline Comments
 
-To generate an inline comment type "**//**" for C-Sytle languages. For python type **#**. After hitting space, press **tab** to generate an inline comment. Optionally, type a few words after **//** to generate a more specific comment.
+To generate an inline comment type **//** for C-Sytle languages. For python type **#**. After hitting space, press **tab** to generate an inline comment. Optionally, type a few words after **//** to generate a more specific comment.
 
 ## Pricing
 
